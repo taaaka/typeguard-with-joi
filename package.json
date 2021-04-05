@@ -1,0 +1,24 @@
+{
+  "name": "typeguard-with-joi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taaaka/typeguard-with-joi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taaaka/typeguard-with-joi/issues"
+  },
+  "homepage": "https://github.com/taaaka/typeguard-with-joi#readme",
+  "devDependencies": {
+    "joi": "^17.4.0",
+    "typescript": "^4.2.3"
+  }
+}
